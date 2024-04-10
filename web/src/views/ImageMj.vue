@@ -2,7 +2,7 @@
   <div class="page-mj">
     <div class="inner custom-scroll">
       <div class="mj-box">
-        <h2>MidJourney 创作中心</h2>
+        <h2>MidJourney 创作中心111111</h2>
 
         <div class="mj-params" :style="{ height: mjBoxHeight + 'px' }">
           <el-form :model="params" label-width="80px" label-position="left">

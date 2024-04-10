@@ -31,3 +31,621 @@
 14:00:38.522285 version@stat F·[] S·0B[] Sc·[]
 14:00:38.539308 db@janitor F·2 G·0
 14:00:38.539399 db@open done T·17.5675ms
+=============== Apr 10, 2024 (CST) ===============
+15:14:29.206338 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+15:14:29.208546 version@stat F·[] S·0B[] Sc·[]
+15:14:29.208573 db@open opening
+15:14:29.208629 journal@recovery F·1
+15:14:29.208758 journal@recovery recovering @6
+15:14:29.208971 version@stat F·[] S·0B[] Sc·[]
+15:14:29.221374 db@janitor F·2 G·0
+15:14:29.221422 db@open done T·12.8378ms
+=============== Apr 10, 2024 (CST) ===============
+16:57:58.387806 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+16:57:58.389799 version@stat F·[] S·0B[] Sc·[]
+16:57:58.389828 db@open opening
+16:57:58.389894 journal@recovery F·1
+16:57:58.390181 journal@recovery recovering @8
+16:57:58.390603 version@stat F·[] S·0B[] Sc·[]
+16:57:58.404899 db@janitor F·2 G·0
+16:57:58.404975 db@open done T·15.1333ms
+=============== Apr 10, 2024 (CST) ===============
+17:25:44.424713 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:25:44.426012 CURRENT: missing target file: MANIFEST-000007
+17:25:44.426316 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:25:45.343751 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:25:45.344251 CURRENT: missing target file: MANIFEST-000007
+17:25:45.344295 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:25:46.702589 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:25:46.702710 CURRENT: missing target file: MANIFEST-000007
+17:25:46.702742 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:25:48.778440 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:25:48.778520 CURRENT: missing target file: MANIFEST-000007
+17:25:48.778543 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:25:52.460252 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:25:52.460342 CURRENT: missing target file: MANIFEST-000007
+17:25:52.460368 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:25:59.244862 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:25:59.244939 CURRENT: missing target file: MANIFEST-000007
+17:25:59.244971 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:26:12.460192 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:26:12.460290 CURRENT: missing target file: MANIFEST-000007
+17:26:12.460308 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:26:38.482220 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:26:38.482282 CURRENT: missing target file: MANIFEST-000007
+17:26:38.482309 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:27:30.100265 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:27:30.100362 CURRENT: missing target file: MANIFEST-000007
+17:27:30.100406 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:28:30.498303 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:28:30.498398 CURRENT: missing target file: MANIFEST-000007
+17:28:30.498468 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:29:30.935032 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:29:30.935156 CURRENT: missing target file: MANIFEST-000007
+17:29:30.935203 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:30:31.370695 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:30:31.370788 CURRENT: missing target file: MANIFEST-000007
+17:30:31.370828 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:31:31.830527 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:31:31.830678 CURRENT: missing target file: MANIFEST-000007
+17:31:31.830768 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:32:32.341582 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:32:32.341764 CURRENT: missing target file: MANIFEST-000007
+17:32:32.341819 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:33:32.761352 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:33:32.761452 CURRENT: missing target file: MANIFEST-000007
+17:33:32.761486 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:34:33.187903 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:34:33.187989 CURRENT: missing target file: MANIFEST-000007
+17:34:33.188010 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:35:33.554329 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:35:33.554417 CURRENT: missing target file: MANIFEST-000007
+17:35:33.554442 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:36:34.048753 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:36:34.048886 CURRENT: missing target file: MANIFEST-000007
+17:36:34.048957 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:37:34.522252 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:37:34.522342 CURRENT: missing target file: MANIFEST-000007
+17:37:34.522369 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:38:35.043918 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:38:35.044029 CURRENT: missing target file: MANIFEST-000007
+17:38:35.044080 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:39:35.519848 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:39:35.519988 CURRENT: missing target file: MANIFEST-000007
+17:39:35.520032 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:40:36.014837 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:40:36.014959 CURRENT: missing target file: MANIFEST-000007
+17:40:36.015028 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:41:36.454889 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:41:36.454980 CURRENT: missing target file: MANIFEST-000007
+17:41:36.455017 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:42:36.887352 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:42:36.887435 CURRENT: missing target file: MANIFEST-000007
+17:42:36.887469 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:43:37.350232 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:43:37.350326 CURRENT: missing target file: MANIFEST-000007
+17:43:37.350368 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:44:37.793210 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:44:37.793303 CURRENT: missing target file: MANIFEST-000007
+17:44:37.793381 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:45:38.273313 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:45:38.273392 CURRENT: missing target file: MANIFEST-000007
+17:45:38.273415 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:46:38.742658 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:46:38.742804 CURRENT: missing target file: MANIFEST-000007
+17:46:38.742840 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:47:39.155800 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:47:39.155865 CURRENT: missing target file: MANIFEST-000007
+17:47:39.155887 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:48:39.561292 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:48:39.561479 CURRENT: missing target file: MANIFEST-000007
+17:48:39.561554 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:49:40.069849 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:49:40.069918 CURRENT: missing target file: MANIFEST-000007
+17:49:40.069961 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:50:40.525446 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:50:40.525555 CURRENT: missing target file: MANIFEST-000007
+17:50:40.525592 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:51:41.015504 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:51:41.015643 CURRENT: missing target file: MANIFEST-000007
+17:51:41.015716 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:52:41.439559 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:52:41.439630 CURRENT: missing target file: MANIFEST-000007
+17:52:41.439651 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:53:41.969248 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:53:41.969365 CURRENT: missing target file: MANIFEST-000007
+17:53:41.969404 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:54:42.471235 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:54:42.471370 CURRENT: missing target file: MANIFEST-000007
+17:54:42.471450 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:55:42.884481 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:55:42.884543 CURRENT: missing target file: MANIFEST-000007
+17:55:42.884561 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:56:43.374654 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:56:43.374755 CURRENT: missing target file: MANIFEST-000007
+17:56:43.374786 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:57:43.871210 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:57:43.871339 CURRENT: missing target file: MANIFEST-000007
+17:57:43.871362 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:58:44.294508 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:58:44.294638 CURRENT: missing target file: MANIFEST-000007
+17:58:44.294682 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+17:59:44.769777 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:59:44.769867 CURRENT: missing target file: MANIFEST-000007
+17:59:44.769890 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:00:45.236235 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:00:45.236343 CURRENT: missing target file: MANIFEST-000007
+18:00:45.236376 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:01:45.676998 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:01:45.677126 CURRENT: missing target file: MANIFEST-000007
+18:01:45.677155 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:02:46.093611 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:02:46.093729 CURRENT: missing target file: MANIFEST-000007
+18:02:46.093787 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:03:46.558993 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:03:46.559071 CURRENT: missing target file: MANIFEST-000007
+18:03:46.559111 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:04:47.042920 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:04:47.044108 CURRENT: missing target file: MANIFEST-000007
+18:04:47.044631 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:05:47.557123 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:05:47.557972 CURRENT: missing target file: MANIFEST-000007
+18:05:47.558408 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:06:48.004335 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:06:48.004424 CURRENT: missing target file: MANIFEST-000007
+18:06:48.004484 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:07:48.442227 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:07:48.442368 CURRENT: missing target file: MANIFEST-000007
+18:07:48.442441 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:08:48.887152 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:08:48.887212 CURRENT: missing target file: MANIFEST-000007
+18:08:48.887240 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:09:49.339515 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:09:49.339689 CURRENT: missing target file: MANIFEST-000007
+18:09:49.339743 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:10:49.808121 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:10:49.808249 CURRENT: missing target file: MANIFEST-000007
+18:10:49.808313 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:11:50.275946 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:11:50.276087 CURRENT: missing target file: MANIFEST-000007
+18:11:50.276126 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:12:50.704560 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:12:50.704618 CURRENT: missing target file: MANIFEST-000007
+18:12:50.704635 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:13:51.180212 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:13:51.180330 CURRENT: missing target file: MANIFEST-000007
+18:13:51.180377 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:14:51.666247 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:14:51.666363 CURRENT: missing target file: MANIFEST-000007
+18:14:51.666462 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:15:52.054089 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:15:52.054149 CURRENT: missing target file: MANIFEST-000007
+18:15:52.054172 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:16:52.558053 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:16:52.558184 CURRENT: missing target file: MANIFEST-000007
+18:16:52.558238 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:17:53.028263 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:17:53.028484 CURRENT: missing target file: MANIFEST-000007
+18:17:53.028571 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:18:53.457526 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:18:53.457697 CURRENT: missing target file: MANIFEST-000007
+18:18:53.457735 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:19:53.869874 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:19:53.870020 CURRENT: missing target file: MANIFEST-000007
+18:19:53.870048 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:20:54.255113 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:20:54.255206 CURRENT: missing target file: MANIFEST-000007
+18:20:54.255230 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:21:54.615781 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:21:54.615904 CURRENT: missing target file: MANIFEST-000007
+18:21:54.615939 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:22:55.090753 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:22:55.090842 CURRENT: missing target file: MANIFEST-000007
+18:22:55.090869 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:23:55.549759 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:23:55.549887 CURRENT: missing target file: MANIFEST-000007
+18:23:55.549951 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:24:56.029576 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:24:56.029755 CURRENT: missing target file: MANIFEST-000007
+18:24:56.029829 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:25:56.494406 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:25:56.494492 CURRENT: missing target file: MANIFEST-000007
+18:25:56.494732 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:26:56.892304 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:26:56.892387 CURRENT: missing target file: MANIFEST-000007
+18:26:56.892432 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:27:57.346489 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:27:57.346598 CURRENT: missing target file: MANIFEST-000007
+18:27:57.346640 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:28:57.821365 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:28:57.821552 CURRENT: missing target file: MANIFEST-000007
+18:28:57.821615 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:29:58.226066 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:29:58.226184 CURRENT: missing target file: MANIFEST-000007
+18:29:58.226232 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:30:58.696186 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:30:58.696286 CURRENT: missing target file: MANIFEST-000007
+18:30:58.696313 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:31:59.136483 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:31:59.136582 CURRENT: missing target file: MANIFEST-000007
+18:31:59.136696 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:32:59.656921 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:32:59.657077 CURRENT: missing target file: MANIFEST-000007
+18:32:59.657167 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:34:00.155299 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:34:00.155395 CURRENT: missing target file: MANIFEST-000007
+18:34:00.155465 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:35:00.571589 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:35:00.571692 CURRENT: missing target file: MANIFEST-000007
+18:35:00.571758 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:36:01.001513 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:36:01.001692 CURRENT: missing target file: MANIFEST-000007
+18:36:01.001735 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:37:01.463719 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:37:01.463816 CURRENT: missing target file: MANIFEST-000007
+18:37:01.463873 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:38:01.901620 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:38:01.901711 CURRENT: missing target file: MANIFEST-000007
+18:38:01.901744 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:39:02.325213 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:39:02.325349 CURRENT: missing target file: MANIFEST-000007
+18:39:02.325433 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:40:02.782886 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:40:02.782965 CURRENT: missing target file: MANIFEST-000007
+18:40:02.783003 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:41:03.256250 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:41:03.256334 CURRENT: missing target file: MANIFEST-000007
+18:41:03.256354 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:42:03.653008 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:42:03.653109 CURRENT: missing target file: MANIFEST-000007
+18:42:03.653131 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:43:04.139639 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:43:04.139806 CURRENT: missing target file: MANIFEST-000007
+18:43:04.139868 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:44:08.348275 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:44:08.348393 CURRENT: missing target file: MANIFEST-000007
+18:44:08.348418 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:44:09.311343 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:44:09.311550 CURRENT: missing target file: MANIFEST-000007
+18:44:09.311586 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:44:10.511031 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:44:10.511149 CURRENT: missing target file: MANIFEST-000007
+18:44:10.511238 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:44:11.957073 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:44:11.959243 CURRENT: missing target file: MANIFEST-000007
+18:44:11.959327 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:44:14.410709 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:44:14.410915 CURRENT: missing target file: MANIFEST-000007
+18:44:14.410973 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:44:18.018912 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:44:18.019052 CURRENT: missing target file: MANIFEST-000007
+18:44:18.019119 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:44:24.896548 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:44:24.896608 CURRENT: missing target file: MANIFEST-000007
+18:44:24.896626 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:44:38.181483 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:44:38.181582 CURRENT: missing target file: MANIFEST-000007
+18:44:38.181630 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:45:04.320083 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:45:04.320238 CURRENT: missing target file: MANIFEST-000007
+18:45:04.320281 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:45:55.981005 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:45:55.981137 CURRENT: missing target file: MANIFEST-000007
+18:45:55.981220 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:46:56.460548 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:46:56.460656 CURRENT: missing target file: MANIFEST-000007
+18:46:56.460786 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:47:56.961888 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:47:56.961978 CURRENT: missing target file: MANIFEST-000007
+18:47:56.961999 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:48:57.546329 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:48:57.546457 CURRENT: missing target file: MANIFEST-000007
+18:48:57.546491 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:49:58.176409 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:49:58.176620 CURRENT: missing target file: MANIFEST-000007
+18:49:58.176720 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:50:58.636271 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:50:58.636378 CURRENT: missing target file: MANIFEST-000007
+18:50:58.636437 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:51:59.085114 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:51:59.085210 CURRENT: missing target file: MANIFEST-000007
+18:51:59.085250 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:52:59.555853 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:52:59.555974 CURRENT: missing target file: MANIFEST-000007
+18:52:59.556011 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:53:59.996335 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:53:59.996436 CURRENT: missing target file: MANIFEST-000007
+18:53:59.996470 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:55:00.477305 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:55:00.477407 CURRENT: missing target file: MANIFEST-000007
+18:55:00.477442 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:56:00.962448 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:56:00.962560 CURRENT: missing target file: MANIFEST-000007
+18:56:00.962590 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:57:01.422710 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:57:01.422832 CURRENT: missing target file: MANIFEST-000007
+18:57:01.422894 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:58:01.905196 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:58:01.905288 CURRENT: missing target file: MANIFEST-000007
+18:58:01.905376 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+18:59:02.350835 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:59:02.350898 CURRENT: missing target file: MANIFEST-000007
+18:59:02.350916 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:00:03.192532 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:00:03.192608 CURRENT: missing target file: MANIFEST-000007
+19:00:03.192628 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:01:03.870314 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:01:03.871898 CURRENT: missing target file: MANIFEST-000007
+19:01:03.872269 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:02:04.303645 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:02:04.303704 CURRENT: missing target file: MANIFEST-000007
+19:02:04.303721 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:03:04.790847 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:03:04.790962 CURRENT: missing target file: MANIFEST-000007
+19:03:04.791011 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:04:05.257073 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:04:05.257225 CURRENT: missing target file: MANIFEST-000007
+19:04:05.257295 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:05:05.843042 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:05:05.843146 CURRENT: missing target file: MANIFEST-000007
+19:05:05.843176 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:06:06.307966 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:06:06.308074 CURRENT: missing target file: MANIFEST-000007
+19:06:06.308120 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:07:06.758150 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:07:06.758295 CURRENT: missing target file: MANIFEST-000007
+19:07:06.758332 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:08:07.217637 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:08:07.217701 CURRENT: missing target file: MANIFEST-000007
+19:08:07.217719 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:09:07.658140 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:09:07.658304 CURRENT: missing target file: MANIFEST-000007
+19:09:07.658360 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:10:08.115130 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:10:08.115301 CURRENT: missing target file: MANIFEST-000007
+19:10:08.115362 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:11:08.532426 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:11:08.532567 CURRENT: missing target file: MANIFEST-000007
+19:11:08.532652 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:12:08.949456 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:12:08.949569 CURRENT: missing target file: MANIFEST-000007
+19:12:08.949607 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:13:09.409149 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:13:09.409224 CURRENT: missing target file: MANIFEST-000007
+19:13:09.409243 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:14:09.814441 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:14:09.814607 CURRENT: missing target file: MANIFEST-000007
+19:14:09.814663 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:15:10.204744 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:15:10.204807 CURRENT: missing target file: MANIFEST-000007
+19:15:10.204839 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:16:10.662808 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:16:10.662872 CURRENT: missing target file: MANIFEST-000007
+19:16:10.662893 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:17:11.096979 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:17:11.097104 CURRENT: missing target file: MANIFEST-000007
+19:17:11.097132 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:18:11.584899 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:18:11.585044 CURRENT: missing target file: MANIFEST-000007
+19:18:11.585123 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:19:12.000044 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:19:12.000107 CURRENT: missing target file: MANIFEST-000007
+19:19:12.000125 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:20:12.773058 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:20:12.773195 CURRENT: missing target file: MANIFEST-000007
+19:20:12.773240 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:21:13.238787 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:21:13.238923 CURRENT: missing target file: MANIFEST-000007
+19:21:13.238954 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:22:13.669555 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:22:13.669629 CURRENT: missing target file: MANIFEST-000007
+19:22:13.669653 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:23:14.146244 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:23:14.146367 CURRENT: missing target file: MANIFEST-000007
+19:23:14.146420 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:24:14.661884 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:24:14.662019 CURRENT: missing target file: MANIFEST-000007
+19:24:14.662072 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:25:15.149415 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:25:15.149562 CURRENT: missing target file: MANIFEST-000007
+19:25:15.149605 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:26:15.551003 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:26:15.551079 CURRENT: missing target file: MANIFEST-000007
+19:26:15.551102 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:27:15.913850 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:27:15.913955 CURRENT: missing target file: MANIFEST-000007
+19:27:15.914017 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:28:16.428330 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:28:16.428458 CURRENT: missing target file: MANIFEST-000007
+19:28:16.428490 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:29:16.860662 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:29:16.860763 CURRENT: missing target file: MANIFEST-000007
+19:29:16.860808 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:30:17.201949 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:30:17.202086 CURRENT: missing target file: MANIFEST-000007
+19:30:17.202130 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:31:17.714615 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:31:17.714762 CURRENT: missing target file: MANIFEST-000007
+19:31:17.714823 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:32:18.162668 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:32:18.162759 CURRENT: missing target file: MANIFEST-000007
+19:32:18.162779 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:33:18.618729 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:33:18.618869 CURRENT: missing target file: MANIFEST-000007
+19:33:18.618916 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:34:19.145470 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:34:19.145672 CURRENT: missing target file: MANIFEST-000007
+19:34:19.145784 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:35:19.653292 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:35:19.653427 CURRENT: missing target file: MANIFEST-000007
+19:35:19.653461 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:36:20.052878 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:36:20.052954 CURRENT: missing target file: MANIFEST-000007
+19:36:20.052988 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:37:20.488150 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:37:20.488345 CURRENT: missing target file: MANIFEST-000007
+19:37:20.488391 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:38:20.967760 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:38:20.967893 CURRENT: missing target file: MANIFEST-000007
+19:38:20.967943 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:39:21.434997 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:39:21.435141 CURRENT: missing target file: MANIFEST-000007
+19:39:21.435213 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:40:21.904010 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:40:21.904134 CURRENT: missing target file: MANIFEST-000007
+19:40:21.904170 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:41:22.293887 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:41:22.293982 CURRENT: missing target file: MANIFEST-000007
+19:41:22.294020 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:42:22.862127 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:42:22.862854 CURRENT: missing target file: MANIFEST-000007
+19:42:22.862885 CURRENT.bak: missing target file: MANIFEST-000005

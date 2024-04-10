@@ -7,7 +7,7 @@
         </div>
         <div class="chat-list">
           <div class="search-box">
-            <el-input v-model="chatName" class="w-50 m-2" size="small" placeholder="搜索会话" @keyup="searchChat">
+            <el-input v-model="chatName" class="w-50 m-2" size="small" placeholder="搜索会话11111" @keyup="searchChat">
               <template #prefix>
                 <el-icon class="el-input__icon">
                   <Search/>

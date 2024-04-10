@@ -1,4 +1,4 @@
-import {createRouter, createWebHistory} from "vue-router";
+ import {createRouter, createWebHistory} from "vue-router";
 
 const routes = [
     {
@@ -41,7 +41,7 @@ const routes = [
             {
                 name: 'images',
                 path: '/images-wall',
-                meta: {title: '作品展示'},
+                meta: {title: '作品展示11'},
                 component: () => import('@/views/ImagesWall.vue'),
             },
             {
