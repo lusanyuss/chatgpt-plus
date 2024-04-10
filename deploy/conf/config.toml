@@ -70,7 +70,7 @@ WeChatBot = false
 [[MjProxyConfigs]]
   Enabled = true
   ApiURL = "http://midjourney-proxy:8082"
-  ApiKey = "sk-geekmaster"
+  ApiKey = "sk-yuliu_geekmaster"
 
 [[MjPlusConfigs]]
    Enabled = false
@@ -88,7 +88,7 @@ WeChatBot = false
   ServerAddr = "http://xxl-job-admin:8080/xxl-job-admin" # xxl-job-admin 管理地址
   ExecutorIp = "chatgpt-plus-api" # 执行器 IP 地址
   ExecutorPort = "9999" # 执行器服务端口
-  AccessToken = "GeekMaster" # 执行器 API 通信 token
+  AccessToken = "yuliu_geekmaster" # 执行器 API 通信 token
   RegistryKey = "chatgpt-plus" # 任务注册 key
 
 [AlipayConfig]

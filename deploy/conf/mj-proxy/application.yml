@@ -3,7 +3,7 @@ mj:
     type: in_memory
     timeout: 30d
   translate-way: null
-  api-secret: "sk-geekmaster" # API 密钥，要跟 chatgpt-plus 应用 config.toml 配置对应上，否则 API 调用会失败
+  api-secret: "sk-yuliu_geekmaster" # API 密钥，要跟 chatgpt-plus 应用 config.toml 配置对应上，否则 API 调用会失败
 
   ng-discord: # 这里必须配置反代，否则无法访问 Discord API
     server: "" # Discord API 反代

@@ -67,7 +67,7 @@ WeChatBot = false
 [[MjProxyConfigs]]
   Enabled = true
   ApiURL = "http://midjourney-proxy:8082"
-  ApiKey = "sk-geekmaster"
+  ApiKey = "sk-yuliu_geekmaster"
 
 [[MjPlusConfigs]]
   Enabled = false

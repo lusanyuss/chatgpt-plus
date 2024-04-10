@@ -1,7 +1,7 @@
 # GO api docker 镜像创建
 FROM alpine:3.18.2
 
-MAINTAINER yangjian<yangjian102621@163.com>
+MAINTAINER yuliu<312832473@qq.com>
 
 WORKDIR /var/www/app
 COPY ./api/bin/chatgpt-plus-linux /var/www/app
