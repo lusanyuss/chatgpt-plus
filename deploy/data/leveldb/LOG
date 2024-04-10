@@ -649,3 +649,7 @@
 19:42:22.862127 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
 19:42:22.862854 CURRENT: missing target file: MANIFEST-000007
 19:42:22.862885 CURRENT.bak: missing target file: MANIFEST-000005
+=============== Apr 10, 2024 (CST) ===============
+19:43:23.303567 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:43:23.303729 CURRENT: missing target file: MANIFEST-000007
+19:43:23.303806 CURRENT.bak: missing target file: MANIFEST-000005
